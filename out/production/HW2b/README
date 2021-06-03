@@ -1,0 +1,11 @@
+This is HW2b written by Kevin Karnani, due on May 10, 2021.
+Important Notes:
+    - The ConsoleMenu.java class is HEAVILY dependent on the InputOutput package.
+    - The InputOutput package, written by Sean Grimes, was taken from the Student repo.
+    - The InputOutput package is a combination of FileUtils, SerializationHelper, and the AbstractInputOutput package.
+    - Sean Grimes gave me his explicit permission to use all the files and functions present in InputOutput.
+    - I have written a test survey. I have stored the survey and sample responses in src/serialized/*.
+    - The requirements pdf was ambiguous as to how to store/display responses. Therefore, I did not implement a way to
+      display responses, and I directly serialize the survey with the filled responses array. Not sure why there was no
+      display requirement.
+    - No errors as far as I have tested. The code is messier than I was hoping it to be... but such is life.
